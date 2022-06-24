@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="IPTV_Provider test" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/783px-Test-Logo.svg.png" group-title="IPTV_Provider",IPTV_Provider test
+http://192.168.0.175:5065/video/video.m3u8
